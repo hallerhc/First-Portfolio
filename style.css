@@ -1,0 +1,104 @@
+
+.topnav {
+    flex-wrap: wrap;
+    background-color: rgb(175, 144, 233);
+    overflow: hidden;
+    text-align: center;
+}
+
+.topnav a {
+    float: left;
+    color: rgb(207, 243, 231);
+    text-align: center;
+    padding: 10px 125px;
+    font-size: 24px;
+    font-family: serif;
+}
+
+.topnav a:hover {
+    background-color: white;
+    color: rgb(241, 38, 190);
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    text-align: center;
+}
+
+.Holly-Haller {
+    display: flex;
+    position: absolute;
+    top: 40px;
+    left: 37%;
+    font-size: 75px;
+    font-family: serif;
+    color: aquamarine;
+}
+
+.Full-Stack {
+    display: flex;
+    align-items: flex-end;
+    position: absolute;
+    left: 37%;
+    top: 150px;
+    font-size: 25px;
+    font-family: serif;
+    color:cyan;
+    opacity: .75;    
+}
+
+.header{
+    
+    float: right;
+    padding: 100px;
+    padding-left: 500px;
+    padding-bottom: 300px;
+    font-size: 20px;
+    background-color: black;
+    color: whitesmoke;
+    text-align: center;
+    font-family: serif;
+}
+
+.work {
+    display: flex;
+    position: absolute;
+    font-size: 24px;
+    top: 70px;
+    color: white;
+}
+
+.bottom-nav {
+    flex-wrap: wrap;
+    background-color: black;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 24px;
+    text-align: center;
+}
+
+.bottom-nav a {
+color: rgb(239, 40, 222);
+padding: 10px 25px; 
+}
+
+.bottom-nav a:hover {
+    background-color: white;
+    color: aquamarine;
+}
+
+@media screen and (max-width: 992px) {
+    .header {
+        padding-top: 700px;
+    }
+    .Holly-Haller {
+        font-size: 50px;
+    }
+    .Full-Stack {
+        width: 50%
+    }
+}
+
+
