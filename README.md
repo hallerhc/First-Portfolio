@@ -1,4 +1,4 @@
 # homework-wk-2 Holly Haller's Portfolio
 ![ScreenShot](https://user-images.githubusercontent.com/100663920/163698338-b950dca3-2d78-41f0-a1d6-7726996e91fb.png)
 This Website is Holly Haller's Portfolio for web developement. Since Holly has not yet completed the full-stack web development program some place fillers were used to represent future projects completed by Holly. These place fillers titled project 1,2, and 3 will deploy the user to google.com as a temporary example. This website will continue to receive updates as Holly gains more experience and knowledge in web developement, so the website can continue to show current projects and skills gained by Holly. This website was created with .html and .css as well as five images. Here is a link to the deployed website.
-https://hallerhc.github.io/homework-wk-2/
+https://hallerhc.github.io/First-Portfolio/
